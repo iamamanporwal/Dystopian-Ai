@@ -1,7 +1,7 @@
 # Dystopian-Ai 💀
 Revealing Emotions in AI Conversations
+![terminator-genisys-028](https://github.com/iamamanporwal/Dystopian-Ai/assets/74871831/79f98170-637f-4dae-9992-0c25c0aaeb0b)
 
-![terminator-genisys-028](https://github.com/iamamanporwal/Dystopian-Ai/assets/74871831/cbd492f8-c035-4a71-864b-a6031bafda7d)
 
 ## User Guide: Running Dystopian AI Analysis 🚀
 
@@ -21,17 +21,15 @@ Before you begin, make sure you have the following:
 3. Run the following command to clone the repository:
 
    ```
-   git clone https://github.com/yourusername/dystopian-ai-analysis.git
+   git clone https://github.com/iamamanporwal/Dystopian-Ai.git
    ```
-
-   Replace `yourusername` with your actual GitHub username 🧑‍💻
 
 ### Step 2: Install Dependencies 🛠️
 
 1. Navigate to the project directory using the terminal 🗂️
    
    ```
-   cd dystopian-ai-analysis
+   cd dystopian-ai
    ```
 
 2. Install the required dependencies using the following command:
@@ -54,12 +52,9 @@ Before you begin, make sure you have the following:
 
 1. In the project directory, you'll find a file named `analyze_sentiment.py`. This is the script for sentiment analysis 📜
 2. Open a terminal and navigate to the project directory 🖥️
-3. Run the script using the following command:
+3. Run the script.
 
-   ```
-   python analyze_sentiment.py
-   ```
-
+   
 ### Step 5: Input Text for Analysis 📝
 
 1. After running the script, you'll be prompted to enter the text you want to analyze for sentiment ✍️
@@ -87,5 +82,3 @@ For any issues or questions, feel free to reach out to us at [aman07porwal@gmail
 Thank you for using **Dystopian AI Analysis**! 🙌
 
 ---
-
-Feel free to customize the emojis and wording to match the tone and style of your project.
